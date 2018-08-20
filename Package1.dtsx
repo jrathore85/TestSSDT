@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="8/20/2018 7:45:39 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="VPVNFBI012"
+  DTS:CreatorName="NASA\jrathore"
+  DTS:DTSID="{1F6FFD45-CF27-41C4-8953-CB3523A61E73}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="14.0.3002.101"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package1"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{62F36C43-1108-4055-9252-04688C4DB5C4}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
