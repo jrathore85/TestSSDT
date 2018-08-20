@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "TestSSDT", "TestSSDT.dtproj", "{AE56624F-E410-48A8-81DA-989BE0AD0E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE56624F-E410-48A8-81DA-989BE0AD0E9E}.Development|Default.ActiveCfg = Development
+		{AE56624F-E410-48A8-81DA-989BE0AD0E9E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25243595-C11A-40C0-8B94-DB36E2E7D6D5}
+	EndGlobalSection
+EndGlobal
